@@ -1,7 +1,7 @@
 # Projeto Ebook gerados por I.A.s
 
 
-ℹ️ NOTE: Este repositório foi desenvolvido para o desafio "Criando um Ebook com ChatGPT & MidJourney" do Bo"otcamp CAIXA - IA Generativa com Microsoft Copilot"
+ℹ️ NOTE: Este repositório foi desenvolvido para o desafio "Criando um Ebook com ChatGPT & MidJourney" do Bootcamp "CAIXA - IA Generativa com Microsoft Copilot"
 
 
 💻 Tecnologias utilizadas 
